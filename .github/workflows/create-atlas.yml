@@ -16,6 +16,9 @@ jobs:
       - name: Download TexturePacker
         run: wget https://github.com/yairm210/Unciv/releases/latest/download/Unciv.jar -O packer.jar
 
+      - name: Clean previous atlas
+        run: rm -f Images/game.atlas Images/game.png
+
       - name: Create Atlas Settings
         run: |
           cat > Images/pack.json << 'EOF'

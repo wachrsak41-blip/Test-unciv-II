@@ -251,4 +251,17 @@
     "upgradesTo":"Modern Armor",
     "attackSound": "bombing"
 }
+{
+  "name": "T-80",
+  "unitType": "Armor",
+  "uniqueTo": "Russia",
+  "replaces": "Modern Armor",
+  "movement": 5,
+  "strength": 80,
+  "cost": 950,
+  "requiredTech": "Lasers",
+  "promotions": ["Shock I"],
+  "uniques":["[+35]% Strength <vs [Armor] units>","[+30]% Strength <vs [Armored] units>","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+	"attackSound": "tankshot"
+}
 ]

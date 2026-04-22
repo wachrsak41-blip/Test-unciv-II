@@ -292,4 +292,19 @@
     "attackSound": "machinegun",
     "uniques": ["[+15]% Strength <vs [Gunpowder] units>","[+57]% Strength <vs [Armor] units>","Can move after attacking"],
 	  }
+{
+    "name": "M4 sherman",
+    "unitType": "Armor",
+    "uniqueTo": "America",
+    "replaces": "Tank",
+    "movement": 5,
+    "strength": 60,
+    "cost": 550,
+    "requiredTech": "Combustion",
+    "obsoleteTech": "Lasers",
+    "promotions": ["Drill I, Drill II"],
+    "uniques":["[+35]% Strength <vs [Melee] units>","[-15]% Strength <vs [Siege] units>"],
+    "upgradesTo":"Modern Armor",
+    "attackSound": "shot"
+}
 ]

@@ -264,4 +264,20 @@
   "uniques":["[+35]% Strength <vs [Armor] units>","[+30]% Strength <vs [Armored] units>","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 	"attackSound": "tankshot"
 }
+{
+    "name": "Kv-1",
+    "unitType": "Armor",
+    "uniqueTo": "Russia",
+    "replaces": "Tank",
+    "movement": 4,
+    "strength": 75,
+    "cost": 950,
+    "requiredTech": "Combustion",
+    "obsoleteTech": "Lasers",
+    "promotions": ["Drill I"],
+    "uniques":["[+25]% Strength <vs [Melee] units>","[+15]% Strength <vs [Siege] units>"],
+    "upgradesTo":"T-80",
+    "attackSound": "bombing"
+}
+	
 ]

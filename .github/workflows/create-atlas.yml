@@ -16,12 +16,21 @@ jobs:
       - name: Download TexturePacker
         run: wget https://github.com/yairm210/Unciv/releases/latest/download/Unciv.jar -O packer.jar
 
+      - name: Create Atlas Settings
+        run: |
+          cat > Images/pack.json << 'EOF'
+          {
+            "filterMin": "MipMapLinearLinear",
+            "filterMag": "MipMapLinearLinear"
+          }
+          EOF
+
       - name: Create Atlas
         run: java -cp packer.jar com.badlogic.gdx.tools.texturepacker.TexturePacker Images/ Images/ game
 
       - name: Commit Atlas
         run: |
-          rm -f packer.jar Unciv.jar.1 hs_err_pid*.log GameSettings.json
+          rm -f packer.jar Unciv.jar.1 hs_err_pid*.log GameSettings.json Images/pack.json
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add .

@@ -4,7 +4,7 @@ size: 256, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Units/Anti-Tank Gun
+Units/88 flanks
   rotate: false
   xy: 2, 2
   size: 64, 56

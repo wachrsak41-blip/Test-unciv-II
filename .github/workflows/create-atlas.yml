@@ -18,7 +18,7 @@ jobs:
 
       - name: Create Atlas Settings
         run: |
-          cat > Images/pack.json << 'EOF'
+          cat > Images/TileSets/AbsoluteUnits/pack.json << 'EOF'
           {
             "filterMin": "MipMapLinearLinear",
             "filterMag": "MipMapLinearLinear"
@@ -26,11 +26,11 @@ jobs:
           EOF
 
       - name: Create Atlas
-        run: java -cp packer.jar com.badlogic.gdx.tools.texturepacker.TexturePacker Images/ Images/ game
+        run: java -cp packer.jar com.badlogic.gdx.tools.texturepacker.TexturePacker Images/TileSets/AbsoluteUnits/ Images/ AbsoluteUnits
 
       - name: Commit Atlas
         run: |
-          rm -f packer.jar Unciv.jar.1 hs_err_pid*.log GameSettings.json Images/pack.json
+          rm -f packer.jar Unciv.jar.1 hs_err_pid*.log GameSettings.json Images/TileSets/AbsoluteUnits/pack.json
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add .

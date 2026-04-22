@@ -1,0 +1,254 @@
+
+  {
+    "name": "Phasers",
+    "unitType": "Ranged",
+    "uniqueTo": "Aliens",
+    "replaces": "Machine Gun",
+    "movement": 2,
+    "strength": 90,
+    "rangedStrength": 36,
+    "range": 2,
+    "cost": 500,
+    "requiredTech": "Ballistics",
+    "requiredResource": "Uranium",
+    "promotions": ["Logistics","Accuracy I"],
+    "attackSound": "phasers"
+  },
+  {
+    "name": "new unit",
+    "unitType": "Ranged",
+    "uniqueTo": "Aliens",
+    "replaces": "Machine Gun",
+    "movement": 10,
+    "strength": 90,
+    "rangedStrength": 100,
+    "range": 2,
+    "cost": 700,
+    "requiredTech": "Ballistics",
+    "requiredResource": "Uranium",
+    "promotions": ["Logistics", "Accuracy I"]
+  },
+  {
+    "name": "A7v",
+    "unitType": "Armor",
+    "uniqueTo": "Germany",
+    "replaces": "Tank",
+    "movement": 4,
+    "strength": 900,
+    "cost": 1800,
+    "requiredTech": "Combustion",
+    "promotions": ["Blitz"],
+    "uniques": [
+  "[+20]% Strength <when attacking>",
+  "[+12]% Strength <vs [Melee] units>",
+  "[+12]% Strength <vs [Gun] units>"
+    ]
+  }
+   {
+  "name": "L3",
+  "unitType": "Armor",
+  "uniqueTo": "Rome",
+  "replaces": "Tank",
+  "movement": 7,
+  "strength": 50,
+  "cost": 200,
+  "requiredTech": "Combustion",
+  "promotions": ["Shock II"],
+   "attackSound": "shot"
+     "uniques": [
+    "[+2]% Strength <when attacking>",
+    "[+50]% Strength <vs [Melee] units>",
+    "[+50]% Strength <vs [Gun] units>"
+  ]
+   }
+{
+  "name": "charb1",
+  "unitType": "Armor",
+  "uniqueTo": "France",
+  "replaces": "Tank",
+  "movement": 3,
+  "strength": 54,
+  "cost": 560,
+  "requiredTech": "Combustion",
+  "promotions": ["Drill II"],
+  "uniques": [
+    "[+5]% Strength <when attacking>",
+    "[+15]% Strength <vs [Melee] units>",
+    "[+2]% Strength <vs [Gun] units>"
+  ]
+}
+{
+  "name": "Bangrajan army",
+  "unitType": "Melee",
+  "uniqueTo": "Siam",
+  "replaces": "Swordsman",
+  "movement": 2,
+  "strength": 22,
+  "cost": 230,
+  "requiredTech": "Iron Working",
+  "promotions": ["Cover II"],
+  "uniques": [
+    "[+10]% Strength <when attacking>",
+    "[+15]% Strength <vs [Melee] units>"
+  ]
+}
+  {
+  "name": "R-7",
+  "unitType": "Ranged",
+  "uniqueTo": "Russia",
+  "replaces": "Nuclear Missile",
+  "movement": 5,
+  "strength": 50,
+  "rangedStrength": 200,
+  "range": 10,
+  "cost": 2000,
+  "requiredTech": "Rocketry",
+  "requiredResource": "Uranium"
+  }
+  {
+  "name": "Phasang peanton",
+  "unitType": "Ranged",
+  "uniqueTo": "Siam",
+  "replaces": "Musketman",
+  "movement": 2,
+  "strength": 25,
+  "rangedStrength": 40,
+  "range": 4,
+  "cost": 900,
+  "requiredTech": "Gunpowder",
+  "requiredResource": "Iron",
+  "promotions": ["Accuracy II"],
+  "attackSound": "cannon",
+    "uniques": [
+    "[+400]% Strength <vs [Mounted] units>"
+  ]
+  }
+  {
+  "name": "88 flanks",
+  "unitType": "Siege",
+  "uniqueTo": "Germany",
+  "movement": 2,
+  "strength": 25,
+  "rangedStrength": 34,
+  "range": 3,
+  "cost": 750,
+  "requiredTech": "Dynamite",
+  "promotions": ["Barrage III"],
+  "uniques": [
+    "[+50]% Strength <vs [Air] units>",
+    "[+40]% Strength <vs [Armor] units>"
+  ]
+  }
+{
+  "name": "Sand Soldier",
+  "unitType": "Gunpowder",
+  "uniqueTo": "Arabia",
+  "replaces": "Great War Infantry",
+  "movement": 1,
+  "strength": 45,
+  "cost": 200,
+  "requiredTech": "Replaceable Parts",
+  "promotions": ["Cover I", "Cover II"],
+  "attackSound": "machinegun",
+  "uniques": [
+  "[+75]% Strength <when defending>",
+  "[-35]% Strength <when attacking>"
+  ]
+}
+{
+  "name": "VT4",
+  "unitType": "Armor",
+  "uniqueTo": "China",
+  "replaces": "Modern Armor",
+  "movement": 4,
+  "strength": 65,
+  "cost": 850,
+  "requiredTech": "Combined Arms",
+  "promotions": ["Shock I", "Shock II"],
+  "uniques": [
+    "[+10]% Strength <vs [Gunpowder] units>",
+    "[+20]% Strength <vs [Siege] units>"
+  ]
+}
+  {
+  "name": "Viet Cong",
+  "unitType": "Gunpowder",
+  "uniqueTo": "Hanoi",
+  "replaces": "Infantry",
+  "movement": 2,
+  "strength": 60,
+  "cost": 390,
+  "requiredTech": "Plastics",
+  "promotions": ["Cover I"],
+  "attackSound": "shot",
+  "uniques": ["[+75]% Strength <when fighting in [Hills] tiles>"]
+  }
+{
+  "name": "M16 Rifleman",
+  "unitType": "Gunpowder",
+  "uniqueTo": "America",
+  "replaces": "Infantry",
+  "movement": 2,
+  "strength": 75,
+  "cost": 400,
+  "requiredTech": "Combined Arms"
+  "promotions": ["Drill I"],
+  "uniques": [
+    "[+15]% Strength <when attacking>",
+    "[+20]% Strength <vs [Melee] units>"
+  ],
+  "attackSound": "shot",
+},
+  {
+    "name": "MG42 man",
+    "unitType": "Gunpowder",
+    "uniqueTo": "Germany",
+    "replaces": "Machine Gun",
+    "movement": 2,
+    "strength": 55,
+    "cost": 675,
+    "requiredTech": "Ballistics",
+    "promotions": ["Shock I", "Shock II"],
+    "attackSound": "machinegun",
+    "uniques": ["[+95]% Strength <vs [Gunpowder] units>","[-75]% Strength <vs [Armor] units>",]
+  }
+  {
+    "name": "Hanthawaddy soilder",
+    "unitType": "Sword",
+    "uniqueTo": "Maynmar",
+    "replaces": "Pikeman",
+    "movement": 3,
+    "strength": 20,
+    "cost": 450,
+    "requiredTech": "Civil Service",
+    "promotions": ["Drill I"],
+    "attackSound": "whoosh",
+    "uniques": ["[+15]% Strength <vs [Sword] units>"],
+    "upgradesTo": "Musketman",
+  }
+  {
+    "name": "Metropolitan Police",
+    "unitType": "Police",
+    "movement": 4,
+    "strength": 45,
+    "cost": 450,
+    "requiredTech": "Rifling",
+    "attackSound": "shot",
+    "uniques": ["[+35]% Strength <vs [Melee] units>"]
+  }
+  {
+    "name": "T34 58",
+    "unitType": "Armor",
+    "uniqueTo": "Russia",
+    "replaces": "Tank",
+    "movement": 6,
+    "strength": 65,
+    "cost": 850,
+    "requiredTech": "Combustion",
+    "obsoleteTech": "Lasers",
+    "promotions": ["Shock I"],
+    "uniques":["[+25]% Strength <vs [Armor] units>","[+30]% Strength <vs [Armored] units>"],
+    "upgradesTo":"Modern Armor",
+    "attackSound": "bombing"
+}
+]

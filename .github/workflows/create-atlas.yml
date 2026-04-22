@@ -1,1 +1,29 @@
+name: Create Atlas
+on: [push]
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Download TexturePacker
+        run: wget https://github.com/yairm210/Unciv/releases/latest/download/Unciv.jar -O packer.jar
+
+      - name: Create Atlas
+        run: java -cp packer.jar com.badlogic.gdx.tools.texturepacker.TexturePacker Images/ Images/ game
+
+      - name: Commit Atlas
+        run: |
+          rm -f packer.jar Unciv.jar.1 hs_err_pid*.log GameSettings.json
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-generate atlas" || echo "No changes"
+          git push

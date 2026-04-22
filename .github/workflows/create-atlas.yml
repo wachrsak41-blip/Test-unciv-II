@@ -17,7 +17,7 @@ jobs:
         run: wget https://github.com/yairm210/Unciv/releases/latest/download/Unciv.jar -O packer.jar
 
       - name: Clean previous atlas
-        run: rm -f Images/game.atlas Images/game.png
+        run: rm -f game.atlas game.png Images/game.atlas Images/game.png
 
       - name: Create Atlas Settings
         run: |
@@ -34,7 +34,7 @@ jobs:
           EOF
 
       - name: Create Atlas
-        run: java -cp packer.jar com.badlogic.gdx.tools.texturepacker.TexturePacker Images/ Images/ game
+        run: java -cp packer.jar com.badlogic.gdx.tools.texturepacker.TexturePacker Images/ ./ game
 
       - name: Commit Atlas
         run: |

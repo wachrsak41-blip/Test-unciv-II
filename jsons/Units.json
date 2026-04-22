@@ -302,7 +302,7 @@
     "cost": 550,
     "requiredTech": "Combustion",
     "obsoleteTech": "Lasers",
-    "promotions": ["Drill I, Drill II"],
+    "promotions": ["Drill I","Drill II"],
     "uniques":["[+35]% Strength <vs [Melee] units>","[-15]% Strength <vs [Siege] units>"],
     "upgradesTo":"Modern Armor",
     "attackSound": "shot"

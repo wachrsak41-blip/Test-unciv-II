@@ -2,7 +2,7 @@
 game.png
 size: 128, 64
 format: RGBA8888
-filter: Nearest, Nearest
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitImages/88 flanks
   rotate: false

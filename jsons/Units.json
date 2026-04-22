@@ -307,4 +307,20 @@
     "upgradesTo":"Modern Armor",
     "attackSound": "shot"
 }
+{
+  "name": "Ak47 Rifleman",
+  "unitType": "Gunpowder",
+  "uniqueTo": "Russia",
+  "replaces": "Infantry",
+  "movement": 3,
+  "strength": 70,
+  "cost": 400,
+  "requiredTech": "Combined Arms"
+  "promotions": ["Drill I"],
+  "uniques": [
+    "[-5]% Strength <when attacking>",
+    "[+15]% Strength <vs [Melee] units>","[+55]% Strength <when fighting in [Forest] tiles>"
+  ],
+  "attackSound": "shot",
+}
 ]

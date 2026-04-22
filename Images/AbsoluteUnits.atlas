@@ -18,7 +18,7 @@ Units/88 flanks-1
   orig: 64, 56
   offset: 0, 0
   index: -1
-Units/Anti-Tank Gun-2
+Units/88 flanks-2
   rotate: false
   xy: 134, 2
   size: 64, 56

@@ -279,5 +279,17 @@
     "upgradesTo":"T-80",
     "attackSound": "bombing"
 }
-	
+	{
+    "name": "Wehrmacht",
+    "unitType": "Gunpowder",
+    "uniqueTo": "Germany",
+    "replaces": "Infantry",
+    "movement": 5,
+    "strength": 52,
+    "cost": 750,
+    "requiredTech": "Plastics",
+    "promotions": ["Shock I", "Shock II"],
+    "attackSound": "machinegun",
+    "uniques": ["[+15]% Strength <vs [Gunpowder] units>","[+57]% Strength <vs [Armor] units>","Can move after attacking"],
+	  }
 ]

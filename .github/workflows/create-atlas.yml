@@ -21,7 +21,12 @@ jobs:
           cat > Images/TileSets/AbsoluteUnits/pack.json << 'EOF'
           {
             "filterMin": "MipMapLinearLinear",
-            "filterMag": "MipMapLinearLinear"
+            "filterMag": "MipMapLinearLinear",
+            "paddingX": 2,
+            "paddingY": 2,
+            "edgePadding": true,
+            "stripWhitespaceX": false,
+            "stripWhitespaceY": false
           }
           EOF
 

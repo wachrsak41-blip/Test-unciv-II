@@ -324,7 +324,7 @@
   "attackSound": "shot",
 }
   {
-    "name": "Panzerfaust Antita-nkman",
+    "name": "Panzerfaust Anti-tankman",
     "unitType": "Siege",
     "uniqueTo": "Germany",
     "replaces": "Infantry",
@@ -334,7 +334,7 @@
     "range": 2,
     "cost": 450,
     "requiredTech": "Plastics",
-    "promotions": ["Shock I", ],
+    "promotions": ["Shock I"],
     "attackSound": "tankshot",
     "uniques": ["[-10]% Strength <vs [Gunpowder] units>","[+100]% Strength <vs [Armor] units>","[+100]% Strength <vs [Armored] units>"]
   }

@@ -369,4 +369,17 @@
     "uniques": ["[+15]% Strength <when attacking>","[+55]% Strength <when fighting in [Jungle] tiles>"],
     "attackSound": "machinegun",
 }
+  {
+    "name": "82nd Airborne Division",
+    "unitType": "Gunpowder",
+    "uniqueTo": "America",
+    "replaces": "Paratrooper",
+    "movement": 3,
+    "strength": 70,
+    "cost": 400,
+    "requiredTech": "Radar",
+    "promotions": ["Shock I"],
+    "uniques": ["[+25]% Strength <vs [Gunpowder] units>","Can move after attacking"],
+    "attackSound": "machinegun,"
+  }
 ]

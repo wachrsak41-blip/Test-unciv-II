@@ -325,7 +325,7 @@
 }
   {
     "name": "Panzerfaust Antita-nkman",
-    "unitType": "Range",
+    "unitType": "Siege",
     "uniqueTo": "Germany",
     "replaces": "Infantry",
     "movement": 5,

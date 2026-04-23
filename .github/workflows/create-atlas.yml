@@ -1,44 +1,35 @@
-name: Create Atlas
-on: [push]
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '30 2 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  unciv-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up JDK
-        uses: actions/setup-java@v4
+      - uses: actions/setup-java@v4
         with:
-          java-version: '17'
           distribution: 'temurin'
+          java-version: 17
 
-      - name: Download TexturePacker
-        run: wget https://github.com/yairm210/Unciv/releases/latest/download/Unciv.jar -O packer.jar
-
-      - name: Clean previous atlas
-        run: rm -f Images/game.atlas Images/game.png
-
-      - name: Create Atlas Settings
+      - name: Autoupdate
+        continue-on-error: true
         run: |
-          cat > Images/pack.json << 'EOF'
-          {
-            "filterMin": "MipMapLinearLinear",
-            "filterMag": "MipMapLinearLinear",
-            "paddingX": 2,
-            "paddingY": 2,
-            "edgePadding": true,
-            "stripWhitespaceX": false,
-            "stripWhitespaceY": false
-          }
-          EOF
+          unciv_url=$(curl -s https://api.github.com/repos/yairm210/unciv/releases/latest | grep -o "http.*Unciv.jar")
+          wget -q -O Unciv.jar $unciv_url
+          java -jar Unciv.jar mod-ci
 
-      - name: Create Atlas
-        run: java -cp packer.jar com.badlogic.gdx.tools.texturepacker.TexturePacker Images/ Images/ game
+      - name: Remove Unciv executable
+        run: rm Unciv.jar
 
-      - name: Commit Atlas
+      - name: Commit changes
         run: |
-          rm -f packer.jar Unciv.jar.1 hs_err_pid*.log GameSettings.json Images/pack.json
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add .

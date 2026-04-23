@@ -364,9 +364,9 @@
     "strength": 75,
     "cost": 400,
     "requiredTech": "Plastics",
-    "obsoleteTech": "Replaceable Parts"
+    "obsoleteTech": "Replaceable Parts",
     "promotions": ["Drill I","Drill II"],
-    "uniques": ["[+15]% Strength <when attacking>","[+55]% Strength <when fighting in [Jungle] tiles>"]
+    "uniques": ["[+15]% Strength <when attacking>","[+55]% Strength <when fighting in [Jungle] tiles>"],
     "attackSound": "machinegun",
 }
 ]

@@ -336,7 +336,7 @@
     "cost": 450,
     "requiredTech": "Plastics",
     "promotions": ["Shock I"],
-    "attackSound": "tankshot",
+    "attackSound": "missile",
     "uniques": ["[-10]% Strength <vs [Gunpowder] units>","[+100]% Strength <vs [Armor] units>","[+100]% Strength <vs [Armored] units>"]
   }
 {

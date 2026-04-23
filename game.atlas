@@ -11,16 +11,9 @@ Units/88 flanks
   orig: 64, 56
   offset: 0, 0
   index: -1
-Units/88 flanks-1
-  rotate: false
-  xy: 76, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 Units/88 flanks-2
   rotate: false
-  xy: 148, 4
+  xy: 76, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

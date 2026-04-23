@@ -138,6 +138,7 @@
     "[+50]% Strength <vs [Air] units>",
     "[+40]% Strength <vs [Armor] units>"
   ]
+    "attackSound": "shot",
   }
 {
   "name": "Sand Soldier",

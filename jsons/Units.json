@@ -379,7 +379,7 @@
     "cost": 400,
     "requiredTech": "Radar",
     "promotions": ["Shock I"],
-    "uniques": ["[+25]% Strength <vs [Gunpowder] units>","Can move after attacking"],
+    "uniques": ["[+25]% Strength <vs [Gunpowder] units>","Can move after attacking","May Paradrop to [Land] tiles up to [6] tiles away <in [{Friendly} {Land}] tiles>"],
     "attackSound": "machinegun,"
   }
 ]

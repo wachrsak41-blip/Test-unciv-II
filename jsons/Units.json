@@ -339,4 +339,21 @@
     "attackSound": "tankshot",
     "uniques": ["[-10]% Strength <vs [Gunpowder] units>","[+100]% Strength <vs [Armor] units>","[+100]% Strength <vs [Armored] units>"]
   }
+{
+  "name": "Type 96",
+  "unitType": "Siege",
+  "uniqueTo": "Japan",
+  "movement": 2,
+  "strength": 25,
+  "rangedStrength": 24,
+  "range": 2,
+  "cost": 150,
+  "requiredTech": "Dynamite",
+  "promotions": ["Accuracy I"],
+  "uniques": [
+    "[+50]% Strength <vs [Melee] units>",
+    "[+40]% Strength <vs [Gunpowder] units>"
+  ]
+    "attackSound": "cannon"
+}
 ]

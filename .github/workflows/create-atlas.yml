@@ -17,7 +17,7 @@ jobs:
           java-version: 17
 
       - name: Clean old atlas
-        run: rm -f game.atlas game.png
+        run: rm -f game.atlas game.png AbsoluteUnits.atlas AbsoluteUnits.png
 
       - name: Autoupdate
         continue-on-error: true

@@ -356,4 +356,17 @@
   ]
     "attackSound": "cannon"
 }
+{
+    "name": "IJA army",
+    "unitType":  "Gunpowder",
+    "uniqueTo": "Japan",
+    "movement": 4,
+    "strength": 75,
+    "cost": 400,
+    "requiredTech": "Plastics",
+    "obsoleteTech": "Replaceable Parts"
+    "promotions": ["Drill I","Drill II"],
+    "uniques": ["[+15]% Strength <when attacking>","[+55]% Strength <when fighting in [Jungle] tiles>"]
+    "attackSound": "machinegun",
+}
 ]

@@ -1,7 +1,12 @@
-{
-  "name": "leaf style I"
-  "uniques": ["[+10%] Strength <when fighting in [Forest] tiles>","[+10%] Strength <when fighting in [Jungle] tiles>"],
-  "unitTypes": ["Melee"],
-  "column": 1,
-  "row": 1,
-}
+[
+    {
+        "name": "leaf style I",
+        "uniques": [
+            "[+10]% Strength <when fighting in [Forest] tiles>",
+            "[+10]% Strength <when fighting in [Jungle] tiles>"
+        ],
+        "unitTypes": ["Melee"],
+        "column": 1,
+        "row": 1
+    }
+]

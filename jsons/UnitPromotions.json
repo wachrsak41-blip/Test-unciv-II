@@ -8,13 +8,13 @@
         "unitTypes": ["Melee"],
         "column": 1,
         "row": 1
-    }
+    },
   {
     "name": "leaf style II",
     "prerequisites": ["leaf style I"],
     "uniques": ["[+15]% Strength <vs [Sword] units>"],
     "unitTypes": ["Melee"],
-    "column": 1,
-    "row": 2
+    "column": 2,
+    "row": 1
   }
 ]

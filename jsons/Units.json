@@ -406,7 +406,7 @@
 		"range": 4,
 		"cost": 400,
 		"requiredTech": "Electronics",
-		"uniques": ["Can carry [2] [Gunpowder] units"]
+		"uniques": ["Can carry [2] [Land] units"]
 		"attackSound": "shipguns",
 	}
 ]

@@ -422,7 +422,7 @@
 }
  {
    "name": "Ronin",
-   "unitType": "Sword",
+   "unitType": "Melee",
    "uniqueTo": "Japan",
    "movement": 3,
    "strength": 22,

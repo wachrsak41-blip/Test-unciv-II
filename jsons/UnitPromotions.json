@@ -14,7 +14,7 @@
     "prerequisites": ["leaf style I"],
     "uniques": ["[+15]% Strength <vs [Sword] units>"],
     "unitTypes": ["Melee"],
-    "column": 2,
-    "row": 1
+    "column": 1,
+    "row": 2
   }
 ]

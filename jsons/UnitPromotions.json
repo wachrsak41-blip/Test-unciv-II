@@ -16,5 +16,22 @@
     "unitTypes": ["Melee"],
     "column": 29,
     "row": 2
+  },
+  {
+        "name": "Upgrade MainGun I",
+        "uniques": [
+        "[+15]% Strength <vs [Armor] units>","[+15]% Strength <vs [Armored] units>"],
+        ],
+        "unitTypes": ["Armor"],
+        "column": 25,
+        "row": 1
+    },
+  {
+    "name": "Upgrade MainGun II",
+    "prerequisites": ["Upgrade MainGun I"],
+    "uniques": ["[+15]% Strength <vs [Armor] units>"],
+    "unitTypes": ["Armor"],
+    "column": 25,
+    "row": 2
   }
 ]

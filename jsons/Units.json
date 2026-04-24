@@ -416,7 +416,7 @@
   "cost": 200,
   "requiredTech": "Combustion",
   "uniques": [
-    "Can carry [2] [Gunpowder] units"
+    "[+15]% Strength bonus for [Gunpowder] units within [2] tiles"
   ],
   "attackSound": "shot"
 }

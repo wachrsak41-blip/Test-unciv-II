@@ -2,7 +2,7 @@
   {
     "name": "Police",
     "movementType": "Land"
-  }
+  },
 {
   "name": "Melee",
   "movementType": "Land"

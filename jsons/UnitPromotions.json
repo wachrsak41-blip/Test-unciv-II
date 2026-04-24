@@ -6,7 +6,7 @@
             "[+10]% Strength <when fighting in [Jungle] tiles>"
         ],
         "unitTypes": ["Melee"],
-        "column": 1,
+        "column": 11,
         "row": 1
     },
   {
@@ -14,7 +14,7 @@
     "prerequisites": ["leaf style I"],
     "uniques": ["[+15]% Strength <vs [Sword] units>"],
     "unitTypes": ["Melee"],
-    "column": 2,
-    "row": 1
+    "column": 11,
+    "row": 2
   }
 ]

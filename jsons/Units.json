@@ -401,12 +401,12 @@
 		"unitType": "Ranged Water",
 	    "uniqueTo": "Japan",
 		"movement": 4,
-		"strength": 40,
-		"rangedStrength": 45,
+		"strength": 50,
+		"rangedStrength": 52,
 		"range": 4,
 		"cost": 400,
 		"requiredTech": "Electronics",
-		"uniques": ["Can carry [2] [Melee] units"]
+		"uniques": ["Can carry [2] [Gunpowder] units"]
 		"attackSound": "shipguns",
 	}
 ]

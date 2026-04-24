@@ -1,1 +1,6 @@
-Test
+{
+  "name": "leaf style I"
+  "uniques": ["[+10%] Strength <when fighting in [Forest] tiles>","[+10%] Strength <when fighting in [Jungle] tiles>"],
+  "column": 1,
+  "row": 1,
+}

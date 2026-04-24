@@ -382,4 +382,18 @@
     "uniques": ["[+25]% Strength <vs [Gunpowder] units>","Can move after attacking","May Paradrop to [Land] tiles up to [6] tiles away <in [{Friendly} {Land}] tiles>"],
     "attackSound": "machinegun,"
   }
+{
+  "name": "M7 Priest",
+  "unitType": "Siege",
+  "uniqueTo": "America",
+  "movement": 4,
+  "strength": 45,
+  "rangedStrength": 40,
+  "range": 2,
+  "cost": 350,
+  "requiredTech": "Combined Arms",
+  "promotions": ["Accuracy I"],
+  "uniques": ["[+100]% Strength <vs cities>","Can move after attacking"],
+  "attackSound": "shot"
+}
 ]

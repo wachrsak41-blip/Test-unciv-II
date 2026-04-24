@@ -420,4 +420,18 @@
   ],
   "attackSound": "shot"
 }
+ {
+   "name": "Ronin",
+   "unitType": "Sword",
+   "uniqueTo": "Japan",
+   "movement": 3,
+   "strength": 22,
+   "cost": 150,
+   "requiredTech": "Stell",
+   "obsoleteTech": "Gunpowder",
+   "promotions": ["Drill I"]
+   "uniques": ["[-200]% Strength bonus for [Sword] units within [4] tiles","[+50]% Strength <when attacking>"],
+   "upgradesTo": "Musketman",
+   "attackSound": "metalhit"
+ }
 ]

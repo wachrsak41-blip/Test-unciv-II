@@ -6,56 +6,63 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 174, 68
+  xy: 277, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 174, 4
+  xy: 277, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 246, 68
+  xy: 349, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/IJA army
   rotate: false
-  xy: 4, 45
+  xy: 107, 45
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/M7 Priest
   rotate: false
-  xy: 246, 4
+  xy: 349, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Ronin
+  rotate: false
+  xy: 4, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 318, 68
+  xy: 421, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
-  xy: 89, 45
+  xy: 192, 45
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 318, 4
+  xy: 421, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

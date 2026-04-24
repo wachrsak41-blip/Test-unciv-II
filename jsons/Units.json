@@ -404,9 +404,20 @@
 		"strength": 50,
 		"rangedStrength": 52,
 		"range": 4,
-		"cost": 400,
+		"cost": 380,
 		"requiredTech": "Electronics",
-		"uniques": ["Can carry [2] [Land] units"]
 		"attackSound": "shipguns",
 	}
+{
+  "name": "Troop Carrier",
+  "unitType": "Mounted",
+  "movement": 5,
+  "strength": 20,
+  "cost": 200,
+  "requiredTech": "Combustion",
+  "uniques": [
+    "Can carry [2] [Gunpowder] units"
+  ],
+  "attackSound": "shot"
+}
 ]

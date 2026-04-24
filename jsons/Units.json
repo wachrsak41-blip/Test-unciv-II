@@ -396,4 +396,17 @@
   "uniques": ["[+100]% Strength <vs cities>","Can move after attacking"],
   "attackSound": "shot"
 }
+	{
+		"name": "Yamato",
+		"unitType": "Ranged Water",
+	    "uniqueTo": "Japan",
+		"movement": 4,
+		"strength": 40,
+		"rangedStrength": 45,
+		"range": 4,
+		"cost": 400,
+		"requiredTech": "Electronics",
+		"uniques": ["Can carry [2] [Melee] units"]
+		"attackSound": "shipguns",
+	}
 ]

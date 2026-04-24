@@ -39,6 +39,13 @@ TileSets/AbsoluteUnits/Units/M7 Priest
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Troop Carrier
+  rotate: false
+  xy: 318, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
   xy: 89, 45
@@ -48,7 +55,7 @@ TileSets/AbsoluteUnits/Units/Type 96
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 318, 68
+  xy: 318, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

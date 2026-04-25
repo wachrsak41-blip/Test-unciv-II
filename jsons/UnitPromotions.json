@@ -101,10 +101,71 @@
 	{
 		"name": "Hurry repiar",
 		"uniques": ["[This Unit] heals [20] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Armor"],
+		"unitTypes": ["Armor","Range Armor"],
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
         "row": 0,
         "column": 33
-    }
+    },
+  {
+        "name": "Conventional Warfare I",
+        "uniques": [
+       "[+15]% Strength bonus for [Gunpowder] units within [2] tiles"
+        ],
+        "unitTypes": ["Ranged Armor"],
+        "column": 34,
+        "row": 1
+    },
+  {
+    "name": "Conventional Warfare II",
+    "prerequisites": ["Conventional Warfare I"],
+    "uniques": ["[+20]% Strength bonus for [Gunpowder] units within [2] tiles"],
+    "unitTypes":
+    ["Ranged Armor"],
+    "column": 34,
+    "row": 2
+  }
+  {
+    "name":
+    "Proportional Response I",
+    "uniques": [
+        "[+15%]% Strength  <when attacking>"
+    ],
+    "unitTypes":
+    ["Ranged Armor"],
+    "column": 35,
+    "row": 1
+},
+{
+    "name": "Proportional Response II",
+    "prerequisites": ["Proportional Response I"],
+    "uniques": [
+        "[+15]% Strength <when attacking>"
+    ],
+    "unitTypes": ["Ranged Armor"],
+    "column": 35,
+    "row": 2
+}
+  {
+    "name": "Long-Range Reconnaissance I",
+    "prerequisites": ["Conventional Warfare II"],
+    "uniques": [
+        "[+1] Sight",
+        "[+1] Movement"
+    ],
+    "unitTypes": ["Ranged Armor"],
+    "column": 36,
+    "row": 1
+},
+{
+    "name": "Long-Range Reconnaissance II",
+    "prerequisites": ["Upgrade MachineGun I"],
+    "uniques": [
+      "[+15]% Strength <vs [Gunpowder] units>",
+      "[+15]% Strength <vs [Mounted] units>",
+    ],
+    "unitTypes": ["Armor"],
+    "column": 36,
+    "row": 2
+}
 ]

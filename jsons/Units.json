@@ -444,7 +444,9 @@
    "requiredTech": "Steel",
    "obsoleteTech": "Gunpowder",
    "promotions": ["Shock I"]
-   "uniques": ["Can spread religion [[2]] times"],
+   "uniques":   ["Can Spread Religion <for [2] movement> <[2] times>",
+        "Religious Unit",
+        "May enter foreign tiles without open borders"],
    "upgradesTo": "Musketman",
    "attackSound": "metalhit"
  }

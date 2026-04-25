@@ -444,7 +444,7 @@
    "requiredTech": "Steel",
    "obsoleteTech": "Gunpowder",
    "promotions": ["Shock I"]
-   "uniques": ["Can spread religion [2] times"],
+   "uniques": ["Can spread religion [[2]] times"],
    "upgradesTo": "Musketman",
    "attackSound": "metalhit"
  }

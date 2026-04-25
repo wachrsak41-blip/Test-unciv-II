@@ -441,9 +441,9 @@
    "movement": 2,
    "strength": 20,
    "cost": 120,
-   "requiredTech": "Stell",
+   "requiredTech": "Steel",
    "obsoleteTech": "Gunpowder",
-   "promotions": ["shock I"]
+   "promotions": ["Shock I"]
    "uniques": ["Can spread religion [2] times"],
    "upgradesTo": "Musketman",
    "attackSound": "metalhit"

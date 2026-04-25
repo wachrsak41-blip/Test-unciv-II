@@ -98,5 +98,14 @@
     "unitTypes": ["Armor"],
     "column": 33,
     "row": 2
-}
+},
+	{
+		"name": "Hurry repiar",
+		"uniques": ["[This Unit] heals [20] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Armor"],
+		"innerColor": [195,53,43],
+		"outerColor": [253,236,234],
+        "row": 0,
+        "column": 33
+    }
 ]

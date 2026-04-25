@@ -38,7 +38,6 @@
 },
   {
    "name": "Upgrade Armor I",
-   "prerequisites": ["Upgrade Maingun I"],
    "uniques": [
    "[+15]% Strength <when defending>"
     ],

@@ -129,7 +129,7 @@
     "name":
     "Proportional Response I",
     "uniques": [
-        "[+15%]% Strength  <when attacking>"
+        "[+15]% Strength  <when attacking>"
     ],
     "unitTypes":
     ["Ranged Armor"],

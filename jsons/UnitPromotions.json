@@ -78,4 +78,25 @@
     "column": 32,
     "row": 2
 }
+  {
+    "name": "Anti-Aircraft Machine Gun",
+    "prerequisites": ["Upgrade MachineGun II"],
+    "uniques": [
+        "[+25]% Strength <vs [Air] units>",
+        "[+15]% Strength <vs [Gunpowder] units>"
+    ],
+    "unitTypes": ["Armor"],
+    "column": 33,
+    "row": 1
+},
+{
+    "name": "Great engineer",
+    "prerequisites": ["Upgrade Armor II","Upgrade MainGun II"],
+    "uniques": [
+      ["Unit will heal every turn, even if it performs an action"
+      ],
+    "unitTypes": ["Armor"],
+    "column": 33,
+    "row": 2
+}
 ]

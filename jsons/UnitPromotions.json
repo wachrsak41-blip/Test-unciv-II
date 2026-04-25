@@ -23,7 +23,7 @@
         "[+15]% Strength <vs [Armor] units>"
     ],
     "unitTypes": ["Armor"],
-    "column": 25,
+    "column": 30,
     "row": 1
 },
 {
@@ -33,16 +33,17 @@
         "[+15]% Strength <vs [Armor] units>"
     ],
     "unitTypes": ["Armor"],
-    "column": 25,
+    "column": 30,
     "row": 2
 },
   {
-    "name": "Upgrade Armor I",
-    "uniques": [
-        "[+15]% Strength <when defending>"
+   "name": "Upgrade Armor I",
+   "prerequisites": ["Upgrade Maingun I"],
+   "uniques": [
+   "[+15]% Strength <when defending>"
     ],
     "unitTypes": ["Armor"],
-    "column": 26,
+    "column": 31,
     "row": 1
 },
 {
@@ -52,7 +53,7 @@
         "[+25]% Strength <when defending>",
     ],
     "unitTypes": ["Armor"],
-    "column": 26,
+    "column": 31,
     "row": 2
 }
 ]

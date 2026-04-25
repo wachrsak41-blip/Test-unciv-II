@@ -463,4 +463,19 @@
   "uniques":["[+35]% Strength <vs [Siege] units>","[+30]% Strength <vs [Armor] units>","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 }
+{
+  "name": "T-90 Bhishma",
+  "unitType": "Ranged Armor",
+  "uniqueTo": "Korea",
+  "replaces": "Modern Armor",
+  "movement": 5,
+  "strength": 110,
+  "rangedStrength": 115,
+  "range": 2,
+  "cost": 575,
+  "requiredTech": "Lasers",
+  "promotions": ["Shock I"],
+  "uniques":["[+85]% Strength <vs [Gunpowder] units>","[+15]% Strength <vs [Armor] units>","[-100]% Strength <vs cities>","Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+  "attackSound": "missile"
+}
 ]

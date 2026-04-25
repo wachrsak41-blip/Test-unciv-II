@@ -6,5 +6,9 @@
 {
   "name": "Melee",
   "movementType": "Land"
-}
+},
+  {
+    "name": "Range Armor",
+    "movementType": "Land"
+  }
 ]

@@ -51,12 +51,12 @@
   "replaces": "Tank",
   "movement": 7,
   "strength": 50,
-  "cost": 200,
+  "cost": 100,
   "requiredTech": "Combustion",
   "promotions": ["Shock II"],
    "attackSound": "shot"
      "uniques": [
-    "[+2]% Strength <when attacking>",
+    "[+20]% Strength <when attacking>",
     "[+50]% Strength <vs [Melee] units>",
     "[+50]% Strength <vs [Gun] units>"
   ]
@@ -68,13 +68,13 @@
   "replaces": "Tank",
   "movement": 3,
   "strength": 54,
-  "cost": 320,
+  "cost": 290,
   "requiredTech": "Combustion",
   "promotions": ["Drill II"],
   "uniques": [
-    "[+5]% Strength <when attacking>",
+    "[+15]% Strength <when attacking>",
     "[+15]% Strength <vs [Melee] units>",
-    "[+2]% Strength <vs [Gun] units>"
+    "[+20]% Strength <vs [Gun] units>"
   ]
 }
 {
@@ -163,7 +163,7 @@
   "replaces": "Modern Armor",
   "movement": 4,
   "strength": 65,
-  "cost": 850,
+  "cost": 500,
   "requiredTech": "Combined Arms",
   "promotions": ["Shock I", "Shock II"],
   "uniques": [
@@ -258,8 +258,8 @@
   "uniqueTo": "Russia",
   "replaces": "Modern Armor",
   "movement": 5,
-  "strength": 80,
-  "cost": 950,
+  "strength": 105,
+  "cost": 475,
   "requiredTech": "Lasers",
   "promotions": ["Shock I"],
   "uniques":["[+35]% Strength <vs [Armor] units>","[+30]% Strength <vs [Armored] units>","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
@@ -450,4 +450,17 @@
    "upgradesTo": "Musketman",
    "attackSound": "metalhit"
  }
+{
+  "name": "K2 Black Panther",
+  "unitType": "Armor",
+  "uniqueTo": "Korea",
+  "replaces": "Modern Armor",
+  "movement": 5,
+  "strength": 110,
+  "cost": 550,
+  "requiredTech": "Lasers",
+  "promotions": ["Shock I"],
+  "uniques":["[+35]% Strength <vs [Siege] units>","[+30]% Strength <vs [Armor] units>","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+}
 ]

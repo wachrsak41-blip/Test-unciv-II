@@ -35,5 +35,24 @@
     "unitTypes": ["Armor"],
     "column": 25,
     "row": 2
+},
+  {
+    "name": "Upgrade Armor I",
+    "uniques": [
+        "[+15]% Strength <when defending>"
+    ],
+    "unitTypes": ["Armor"],
+    "column": 26,
+    "row": 1
+},
+{
+    "name": "Upgrade Armor II",
+    "prerequisites": ["Upgrade Armor I"],
+    "uniques": [
+        "[+25]% Strength <when defending>",
+    ],
+    "unitTypes": ["Armor"],
+    "column": 26,
+    "row": 2
 }
 ]

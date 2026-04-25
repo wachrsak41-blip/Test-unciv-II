@@ -55,7 +55,7 @@
     "unitTypes": ["Armor"],
     "column": 31,
     "row": 2
-}
+},
   {
     "name": "Upgrade MachineGun I",
     "prerequisites": ["Upgrade Maingun I"],
@@ -77,7 +77,7 @@
     "unitTypes": ["Armor"],
     "column": 32,
     "row": 2
-}
+},
   {
     "name": "Anti-Aircraft Machine Gun",
     "prerequisites": ["Upgrade MachineGun II"],

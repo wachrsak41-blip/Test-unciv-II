@@ -58,7 +58,7 @@
 },
   {
     "name": "Upgrade MachineGun I",
-    "prerequisites": ["Upgrade Maingun I"],
+    "prerequisites": ["Upgrade MainGun I"],
     "uniques": [
         "[+15]% Strength <vs [Gunpowder] units>",
         "[+15]% Strength <vs [Mounted] units>"
@@ -93,7 +93,7 @@
     "name": "Great engineer",
     "prerequisites": ["Upgrade Armor II","Upgrade MainGun II"],
     "uniques": [
-      ["Unit will heal every turn, even if it performs an action"
+      "Unit will heal every turn, even if it performs an action"
       ],
     "unitTypes": ["Armor"],
     "column": 33,

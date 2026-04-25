@@ -56,4 +56,26 @@
     "column": 31,
     "row": 2
 }
+  {
+    "name": "Upgrade MachineGun I",
+    "prerequisites": ["Upgrade Maingun I"],
+    "uniques": [
+        "[+15]% Strength <vs [Gunpowder] units>",
+        "[+15]% Strength <vs [Mounted] units>"
+    ],
+    "unitTypes": ["Armor"],
+    "column": 32,
+    "row": 1
+},
+{
+    "name": "Upgrade MachineGun II",
+    "prerequisites": ["Upgrade MachineGun I"],
+    "uniques": [
+      "[+15]% Strength <vs [Gunpowder] units>",
+      "[+15]% Strength <vs [Mounted] units>",
+    ],
+    "unitTypes": ["Armor"],
+    "column": 32,
+    "row": 2
+}
 ]

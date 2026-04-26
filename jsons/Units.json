@@ -484,7 +484,7 @@
     "unitType": "Armor",
     "uniqueTo": "Germany",
     "movement": 1,
-    "strength": 350,
+    "strength": 175,
     "cost": 750,
     "requiredTech": "Super Heavy Tank",
     "uniques":["[+15]% Strength <vs [Gunpowder] units>","No defensive terrain bonus", "Never appears as a Barbarian unit","[-85]% Strength <when fighting in [Jungle] tiles>","[-85]% Strength <when fighting in [Forest] tiles>","[-45]% Strength <when fighting in [Hill] tiles>"],

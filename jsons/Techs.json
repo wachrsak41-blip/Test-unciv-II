@@ -8,7 +8,7 @@
     "techs": [
         {
             "name": "Super Heavy Tank",
-            "row": 7,
+            "row": 8,
             "prerequisites": ["Combined Arms"],
             "quote": "'The moving fortress,itn't tell that good- Anonymous"
         }

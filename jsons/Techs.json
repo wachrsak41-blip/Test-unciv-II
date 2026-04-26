@@ -1,0 +1,15 @@
+{
+    "columnNumber": 13,
+    "era": "Atomic era",
+    "techCost": 1400,
+    "buildingCost": 400,
+    "wonderCost": 800,
+    "techs": [
+        {
+            "name": "Super Heavy Tank",
+            "row": 7,
+            "prerequisites": ["Combined Arms"],
+            "quote": "'The moving fortress,itn't tell that good- Anonymous"
+        }
+    ]
+}

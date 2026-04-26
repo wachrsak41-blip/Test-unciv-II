@@ -1,11 +1,12 @@
 [
 {
-    "columnNumber": 18,
-    "era": "Atomic era",
-    "techCost": 1400,
-    "buildingCost": 400,
-    "wonderCost": 800,
-    "techs": [
+    	{
+		"columnNumber": 13,
+		"era": "Atomic era",
+		"techCost": 5100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
         {
             "name": "Super Heavy Tank",
             "row": 9,

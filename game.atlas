@@ -46,6 +46,13 @@ TileSets/AbsoluteUnits/Units/M7 Priest
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Maus
+  rotate: false
+  xy: 524, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Ronin
   rotate: false
   xy: 107, 43
@@ -55,7 +62,7 @@ TileSets/AbsoluteUnits/Units/Ronin
   index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 524, 68
+  xy: 524, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -69,7 +76,7 @@ TileSets/AbsoluteUnits/Units/Type 96
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 524, 4
+  xy: 596, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

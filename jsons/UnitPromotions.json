@@ -148,7 +148,7 @@
 }
   {
     "name": "Long-Range Reconnaissance I",
-    "prerequisites": ["Conventional Warfare II"],
+    "prerequisites": ["Conventional Warfare I"],
     "uniques": [
         "[+1] Sight",
         "[+1] Movement"
@@ -159,7 +159,7 @@
 },
 {
     "name": "Long-Range Reconnaissance II",
-    "prerequisites": ["Upgrade MachineGun I"],
+    "prerequisites": ["Long-Range Reconnaissance I"],
     "uniques": [
       "[+15]% Strength <vs [Gunpowder] units>",
       "[+15]% Strength <vs [Mounted] units>",

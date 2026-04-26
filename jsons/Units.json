@@ -478,4 +478,16 @@
   "uniques":["[+85]% Strength <vs [Gunpowder] units>","[+15]% Strength <vs [Armor] units>","[-100]% Strength <vs cities>","Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
   "attackSound": "missile"
 }
+{
+    "name": "Maus",
+    "unitType": "Armor",
+    "uniqueTo": "Germany",
+    "movement": 1,
+    "strength": 350,
+    "cost": 750,
+    "requiredTech": "Super Heavy Tank",
+    "uniques":["[+15]% Strength <vs [Gunpowder] units>","No defensive terrain bonus", "Never appears as a Barbarian unit","[-85]% Strength <when fighting in [Jungle] tiles>","[-85]% Strength <when fighting in [Forest] tiles>","[-45]% Strength <when fighting in [Hill] tiles>"],
+    "upgradesTo":"Modern Armor",
+    "attackSound": "tankshot"
+}
 ]

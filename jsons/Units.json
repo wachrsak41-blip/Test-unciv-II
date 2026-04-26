@@ -491,4 +491,17 @@
     "upgradesTo":"Modern Armor",
     "attackSound": "tankshot"
 }
+{
+"name": "stingray",
+  "unitType": "Armor",
+  "uniqueTo": "Siam",
+  "replaces": "Modern Armor",
+  "movement": 8,
+  "strength": 90,
+  "cost": 250,
+  "requiredTech": "Lasers",
+  "promotions": ["Shock I"],
+  "uniques":["[+35]% Strength <vs [Gunpowder] units>","[-40]% Strength <vs [Siege] units>","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+}
 ]

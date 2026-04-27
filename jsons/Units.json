@@ -506,7 +506,7 @@
 }
 {
     "name": "Flamethrower",
-    "unitType": "Flamethrower",
+    "unitType": "Melee",
     "movement": 2,
     "strength": 35,
     "cost": 250,

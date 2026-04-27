@@ -504,4 +504,21 @@
   "uniques":["[+35]% Strength <vs [Gunpowder] units>","[-40]% Strength <vs [Siege] units>","Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 }
+{
+    "name": "Flamethrower",
+    "unitType": "Flamethrower",
+    "movement": 2,
+    "strength": 35,
+    "cost": 250,
+    "requiredTech": "Combustion",
+    "uniqueTo": "Germany",
+    "requiredResource": "Oil",
+    "uniques": [
+        "No Movement Cost to Pillage",
+        "[+50]% Strength <when fighting in [Forest] tiles>",
+        "[+50]% Strength <when fighting in [Jungle] tiles>",
+        "[+30]% Strength <vs [City] tiles>"
+    ],
+    "attackSound": "fire"
+}
 ]

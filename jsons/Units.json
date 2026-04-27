@@ -517,7 +517,7 @@
         "No Movement Cost to Pillage",
         "[+50]% Strength <when fighting in [Forest] tiles>",
         "[+50]% Strength <when fighting in [Jungle] tiles>",
-        "[+30]% Strength <vs [City] tiles>"
+        "[+30]% Strength <vs cities>"
     ],
     "attackSound": "fire"
 }

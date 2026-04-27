@@ -329,7 +329,6 @@
     "name": "Panzerfaust Anti-tankman",
     "unitType": "Siege",
     "uniqueTo": "Germany",
-    "replaces": "Infantry",
     "movement": 5,
     "strength": 22,
     "rangedStrength": 40,

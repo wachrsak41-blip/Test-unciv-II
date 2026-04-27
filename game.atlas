@@ -6,84 +6,91 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 483, 68
+  xy: 586, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 483, 4
+  xy: 586, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 555, 68
+  xy: 658, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Holy knight
+TileSets/AbsoluteUnits/Units/Flamethrower
   rotate: false
   xy: 4, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/IJA army
-  rotate: false
-  xy: 313, 45
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/M7 Priest
-  rotate: false
-  xy: 555, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Maus
-  rotate: false
-  xy: 627, 68
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Ronin
+TileSets/AbsoluteUnits/Units/Holy knight
   rotate: false
   xy: 107, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/IJA army
+  rotate: false
+  xy: 416, 45
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/M7 Priest
+  rotate: false
+  xy: 658, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Maus
+  rotate: false
+  xy: 730, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ronin
+  rotate: false
+  xy: 210, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 627, 4
+  xy: 730, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
-  xy: 398, 45
+  xy: 501, 45
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 699, 68
+  xy: 802, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/stingray
   rotate: false
-  xy: 210, 43
+  xy: 313, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0

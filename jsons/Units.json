@@ -471,7 +471,7 @@
   "replaces": "Modern Armor",
   "movement": 5,
   "strength": 110,
-  "rangedStrength": 115,
+  "rangedStrength": 75,
   "range": 2,
   "cost": 575,
   "requiredTech": "Lasers",

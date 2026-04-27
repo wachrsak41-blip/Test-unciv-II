@@ -1,103 +1,110 @@
 
 game.png
-size: 1024, 128
+size: 512, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 689, 68
+  xy: 4, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 689, 4
+  xy: 398, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 761, 68
+  xy: 76, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Flamethrower
   rotate: false
-  xy: 4, 43
+  xy: 4, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Holy knight
   rotate: false
-  xy: 107, 43
+  xy: 4, 68
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/IJA army
   rotate: false
-  xy: 519, 45
+  xy: 313, 159
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/M7 Priest
   rotate: false
-  xy: 761, 4
+  xy: 398, 118
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Maus
   rotate: false
-  xy: 833, 68
+  xy: 148, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Panzerfaust Anti-tankman
   rotate: false
-  xy: 210, 43
+  xy: 107, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ronin
   rotate: false
-  xy: 313, 43
+  xy: 107, 68
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 833, 4
+  xy: 220, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
-  xy: 604, 45
+  xy: 313, 72
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Wehrmacht
+  rotate: false
+  xy: 210, 157
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 905, 68
+  xy: 398, 54
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/stingray
   rotate: false
-  xy: 416, 43
+  xy: 210, 68
   size: 95, 81
   orig: 95, 81
   offset: 0, 0

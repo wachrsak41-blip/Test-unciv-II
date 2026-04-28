@@ -13,14 +13,14 @@ TileSets/AbsoluteUnits/Units/88 flanks
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 398, 182
+  xy: 76, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 76, 4
+  xy: 148, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -41,70 +41,77 @@ TileSets/AbsoluteUnits/Units/Holy knight
   index: -1
 TileSets/AbsoluteUnits/Units/IJA army
   rotate: false
-  xy: 313, 159
+  xy: 313, 70
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/M7 Priest
   rotate: false
-  xy: 398, 118
+  xy: 220, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Maus
-  rotate: false
-  xy: 148, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Panzerfaust Anti-tankman
+TileSets/AbsoluteUnits/Units/MG42 man
   rotate: false
   xy: 107, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Ronin
+TileSets/AbsoluteUnits/Units/Maus
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Panzerfaust Anti-tankman
   rotate: false
   xy: 107, 68
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Troop Carrier
-  rotate: false
-  xy: 220, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Type 96
-  rotate: false
-  xy: 313, 72
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Wehrmacht
+TileSets/AbsoluteUnits/Units/Ronin
   rotate: false
   xy: 210, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Troop Carrier
+  rotate: false
+  xy: 364, 6
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Type 96
+  rotate: false
+  xy: 416, 159
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Wehrmacht
+  rotate: false
+  xy: 210, 68
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 398, 54
+  xy: 398, 93
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/stingray
   rotate: false
-  xy: 210, 68
+  xy: 313, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0

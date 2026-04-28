@@ -149,6 +149,7 @@
   "strength": 45,
   "cost": 200,
   "requiredTech": "Replaceable Parts",
+  "obsoleteTech": "Pharmaceuticals"
   "promotions": ["Cover I", "Cover II"],
   "attackSound": "machinegun",
   "uniques": [
@@ -156,6 +157,7 @@
   "[-35]% Strength <when attacking>",
   "[+75]% Strength <when fighting in [Desert] tiles>"
   ]
+  "upgradesTo": "Marine",
 }
 {
   "name": "VT4",

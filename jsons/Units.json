@@ -532,11 +532,10 @@
   "requiredTech": 
   "Rifling",
   "obsoleteTech": "Plastics",
-  "promotions": ["Shock I"],
     "uniques":[
 	"[+25]% Strength <vs [Gunpowder] units>",
     "[-50]% Strength <vs [Armor] units>",
-    "[-50]% Strength <vs [Armored] units",
+    "[-50]% Strength <vs [Armored] units>",
     "[+15]% Strength <when fighting in [Forest] tiles>",
     "[+15]% Strength <when fighting in [Jungle] tiles>",
 ],

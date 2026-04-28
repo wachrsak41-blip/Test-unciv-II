@@ -521,7 +521,7 @@
     "attackSound": "fire"
 }
 {
-  "name": "Sniper",
+  "name": "Sniper rifle man",
   "unitType":
   "Ranged Gunpowder",
   "movement": 2,
@@ -530,8 +530,8 @@
   "range": 2,
   "cost": 300,
   "requiredTech": 
-  "Rifling",
-  "obsoleteTech": "Plastics",
+  "Replaceable Parts",
+  "obsoleteTech": "pharmaceuticals",
     "uniques":[
 	"[+25]% Strength <vs [Gunpowder] units>",
     "[-50]% Strength <vs [Armor] units>",
@@ -540,7 +540,7 @@
     "[+15]% Strength <when fighting in [Jungle] tiles>",
 ],
   "upgradesTo":
-  "Great War Infantry",
+  "Marine",
   "attackSound": "shot"
 }
 ]

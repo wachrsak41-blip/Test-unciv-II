@@ -525,13 +525,13 @@
   "unitType":
   "Ranged Gunpowder",
   "movement": 2,
-  "strength": 25
+  "strength": 25,
   "rangedStrength": 34,
   "range": 2,
   "cost": 300,
   "requiredTech": 
   "Replaceable Parts",
-  "obsoleteTech": "pharmaceuticals",
+  "obsoleteTech": "Pharmaceuticals",
     "uniques":[
 	"[+25]% Strength <vs [Gunpowder] units>",
     "[-50]% Strength <vs [Armor] units>",

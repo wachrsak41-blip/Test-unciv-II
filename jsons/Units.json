@@ -520,4 +520,28 @@
     ],
     "attackSound": "fire"
 }
+{
+  "name": "Sniper",
+  "unitType":
+  "Ranged Gunpowder",
+  "movement": 2,
+  "strength": 25
+  "rangedStrength": 34,
+  "range": 2,
+  "cost": 300,
+  "requiredTech": 
+  "Rifling",
+  "obsoleteTech": "Plastics",
+  "promotions": ["Shock I"],
+    "uniques":[
+	"[+25]% Strength <vs [Gunpowder] units>",
+    "[-50]% Strength <vs [Armor] units>",
+    "[-50]% Strength <vs [Armored] units",
+    "[+15]% Strength <when fighting in [Forest] tiles>",
+    "[+15]% Strength <when fighting in [Jungle] tiles>",
+],
+  "upgradesTo":
+  "Great War Infantry",
+  "attackSound": "shot"
+}
 ]

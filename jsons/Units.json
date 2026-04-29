@@ -545,4 +545,20 @@
   "Marine",
   "attackSound": "shot"
 }
+{
+    "name": "Lunge Mine",
+    "unitType": "Gunpowder",
+    "movement": 2,
+    "strength": 40,
+    "cost": 100,
+    "requiredTech": "Combined Arms",
+    "obsoleteTech": "Pharmaceuticals",
+    "uniqueTo": "Japan",
+    "uniques": [
+        "Self-destructs when attacking",
+        "[+150]% Strength <vs [Armor] units>",
+        "[+150]% Strength <vs [Armored] units>"
+    ],
+    "attackSound": "nuke"
+}
 ]

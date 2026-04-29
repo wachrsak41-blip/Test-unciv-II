@@ -556,8 +556,8 @@
     "uniqueTo": "Japan",
     "uniques": [
         "Self-destructs when attacking",
-        "[+150]% Strength <vs [Armor] units>",
-        "[+150]% Strength <vs [Armored] units>"
+        "[+200]% Strength <vs [Armor] units>",
+        "[+200]% Strength <vs [Armored] units>"
     ],
     "attackSound": "nuke"
 }

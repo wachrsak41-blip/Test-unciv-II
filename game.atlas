@@ -6,154 +6,161 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 915, 182
+  xy: 212, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 915, 118
+  xy: 284, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 915, 54
+  xy: 356, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Flamethrower
+TileSets/AbsoluteUnits/Units/Bangrajan
   rotate: false
   xy: 212, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Holy knight
+TileSets/AbsoluteUnits/Units/Flamethrower
   rotate: false
   xy: 212, 68
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/IJA army
-  rotate: false
-  xy: 830, 159
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Lunge Mine
+TileSets/AbsoluteUnits/Units/Holy knight
   rotate: false
   xy: 315, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/M7 Priest
+TileSets/AbsoluteUnits/Units/IJA army
   rotate: false
-  xy: 212, 4
-  size: 64, 56
-  orig: 64, 56
+  xy: 830, 70
+  size: 77, 79
+  orig: 77, 79
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/MG42 man
+TileSets/AbsoluteUnits/Units/Lunge Mine
   rotate: false
   xy: 315, 68
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Maus
-  rotate: false
-  xy: 284, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Panzerfaust Anti-tankman
-  rotate: false
-  xy: 418, 157
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Phasang puenton
-  rotate: false
-  xy: 418, 68
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Ronin
-  rotate: false
-  xy: 521, 157
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sand Soldier
-  rotate: false
-  xy: 521, 68
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sniper rifle man
-  rotate: false
-  xy: 624, 157
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Troop Carrier
-  rotate: false
-  xy: 356, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Type 96
-  rotate: false
-  xy: 830, 72
-  size: 77, 79
-  orig: 77, 79
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Wehrmacht
-  rotate: false
-  xy: 624, 68
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Yamato
+TileSets/AbsoluteUnits/Units/M7 Priest
   rotate: false
   xy: 428, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/charb1
+TileSets/AbsoluteUnits/Units/MG42 man
+  rotate: false
+  xy: 418, 157
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Maus
   rotate: false
   xy: 500, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/fire lance
+TileSets/AbsoluteUnits/Units/Panzerfaust Anti-tankman
+  rotate: false
+  xy: 418, 68
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Phasang puenton
+  rotate: false
+  xy: 521, 157
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ronin
+  rotate: false
+  xy: 521, 68
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sand Soldier
+  rotate: false
+  xy: 624, 157
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper rifle man
+  rotate: false
+  xy: 624, 68
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Troop Carrier
+  rotate: false
+  xy: 572, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Type 96
+  rotate: false
+  xy: 933, 159
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Wehrmacht
   rotate: false
   xy: 727, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/stingray
+TileSets/AbsoluteUnits/Units/Yamato
+  rotate: false
+  xy: 644, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/charb1
+  rotate: false
+  xy: 716, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/fire lance
   rotate: false
   xy: 727, 68
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/stingray
+  rotate: false
+  xy: 830, 157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0

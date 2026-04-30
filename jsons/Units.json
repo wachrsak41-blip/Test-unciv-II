@@ -123,7 +123,7 @@
     "uniques": [
     "[+200]% Strength <vs [Mounted] units>"
   ]
-  "upgradesTo": "",
+  "upgradesTo": "Rifleman",
   }
   {
   "name": "88 flanks",

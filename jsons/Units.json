@@ -563,4 +563,20 @@
     ],
     "attackSound": "nuke"
 }
+{
+  "name": "fire lance",
+  "unitType": "Sword",
+  "uniqueTo": "China",
+  "movement": 2,
+  "strength": 18,
+  "cost": 100,
+    "requiredTech": 
+  "Civil Service",
+  "obsoleteTech": "Gunpowder",
+  "promotions": "Shock I",
+  "uniques": [
+    "[+15]% Strength <when fighting in [Open terrain] tiles>"
+    ],
+  "upgradesTo": "Musketman",
+  "attackSound": "shot",
 ]

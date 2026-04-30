@@ -78,13 +78,13 @@
   ]
 }
 {
-  "name": "Bangrajan army",
+  "name": "Bangrajan",
   "unitType": "Melee",
   "uniqueTo": "Siam",
   "replaces": "Swordsman",
   "movement": 2,
   "strength": 22,
-  "cost": 230,
+  "cost": 130,
   "requiredTech": "Iron Working",
   "promotions": ["Cover II"],
   "uniques": [

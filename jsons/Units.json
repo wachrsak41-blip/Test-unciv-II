@@ -34,7 +34,7 @@
     "uniqueTo": "Germany",
     "replaces": "Landship",
     "movement": 3,
-    "strength": 50,
+    "strength": 60,
     "cost": 300,
     "requiredTech": "Combustion",
     "promotions": ["Blitz"],

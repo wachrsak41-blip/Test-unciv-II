@@ -106,7 +106,7 @@
   "requiredResource": "Uranium"
   }
   {
-  "name": "Phasang peanton",
+  "name": "Phasang puenton",
   "unitType": "Ranged",
   "uniqueTo": "Siam",
   "replaces": "Musketman",
@@ -116,12 +116,14 @@
   "range": 4,
   "cost": 200,
   "requiredTech": "Gunpowder",
+  "obsoleteTech": "Rifling",
   "requiredResource": "Iron",
   "promotions": ["Accuracy II"],
   "attackSound": "cannon",
     "uniques": [
-    "[+400]% Strength <vs [Mounted] units>"
+    "[+200]% Strength <vs [Mounted] units>"
   ]
+  "upgradesTo": "",
   }
   {
   "name": "88 flanks",

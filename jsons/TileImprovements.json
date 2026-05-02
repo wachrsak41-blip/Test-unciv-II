@@ -5,5 +5,9 @@
     "turnsToBuild": 1,
     "food": -2,
     "production": -2,
+"uniques": [
+    "Uncapturable",
+    "May enter foreign tiles without open borders"
+]
 }
 ]

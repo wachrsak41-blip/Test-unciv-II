@@ -509,14 +509,14 @@
 {
     "name": "Flamethrower",
     "unitType": "Melee",
-    "movement": 2,
+    "uniqueTo": "Germany",
+	"movement": 2,
     "strength": 35,
     "cost": 250,
     "requiredTech": "Combustion",
-    "uniqueTo": "Germany",
     "requiredResource": "Oil",
     "uniques": [
-        "No Movement Cost to Pillage",
+        "Can construct [Scorched Earth]",
         "[+50]% Strength <when fighting in [Forest] tiles>",
         "[+50]% Strength <when fighting in [Jungle] tiles>",
         "[+30]% Strength <vs cities>"

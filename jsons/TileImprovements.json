@@ -5,8 +5,5 @@
     "turnsToBuild": 1,
     "food": -2,
     "production": -2,
-    "uniques": [
-        "Can only be built by [Flamethrower] units"
-    ]
 }
 ]

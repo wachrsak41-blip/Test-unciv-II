@@ -516,7 +516,7 @@
     "requiredTech": "Combustion",
     "requiredResource": "Oil",
     "uniques": [
-        "Can construct [Scorched Earth]",
+        "Can instantly construct a [Scorched Earth] improvement <by consuming this unit>",
         "[+50]% Strength <when fighting in [Forest] tiles>",
         "[+50]% Strength <when fighting in [Jungle] tiles>",
         "[+30]% Strength <vs cities>"

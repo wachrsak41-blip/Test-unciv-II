@@ -516,8 +516,7 @@
     "requiredTech": "Combustion",
     "requiredResource": "Oil",
     "uniques": [
-        "No Movement Cost to Pillage",
-        "Uncapturable",
+        "Can instantly construct a [Scorched Earth] improvement",
         "May enter foreign tiles without open borders",
 		"Can instantly construct a [Scorched Earth] improvement <by consuming this unit>",
         "[+50]% Strength <when fighting in [Forest] tiles>",

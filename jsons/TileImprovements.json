@@ -1,12 +1,12 @@
 [
-  {
+{
     "name": "Scorched Earth",
     "terrainsCanBeBuiltOn": ["Grassland", "Plains", "Forest", "Jungle"],
     "turnsToBuild": 1,
+    "food": -2,
+    "production": -2,
     "uniques": [
-        "Can only be built by [Flamethrower]",
-        "[-2] Production",
-        "[-2] Food"
+        "Can only be built by [Flamethrower] units"
     ]
-  }
+}
 ]

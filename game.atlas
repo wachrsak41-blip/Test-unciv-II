@@ -6,21 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 1622, 182
+  xy: 1707, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 1694, 182
+  xy: 1779, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 1766, 182
+  xy: 1851, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -67,9 +67,16 @@ TileSets/AbsoluteUnits/Units/Lunge Mine
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/M4 sherman
+  rotate: false
+  xy: 1537, 173
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/M7 Priest
   rotate: false
-  xy: 1838, 182
+  xy: 1923, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -83,7 +90,7 @@ TileSets/AbsoluteUnits/Units/MG42 man
   index: -1
 TileSets/AbsoluteUnits/Units/Maus
   rotate: false
-  xy: 1910, 182
+  xy: 628, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -139,14 +146,14 @@ TileSets/AbsoluteUnits/Units/Sniper rifle man-2
   index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 628, 4
+  xy: 700, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
-  xy: 1537, 159
+  xy: 1622, 159
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
@@ -160,14 +167,14 @@ TileSets/AbsoluteUnits/Units/Wehrmacht
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 700, 4
+  xy: 772, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/charb1
   rotate: false
-  xy: 772, 4
+  xy: 844, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

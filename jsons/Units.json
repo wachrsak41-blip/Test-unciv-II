@@ -308,7 +308,7 @@
     "requiredTech": "Combined Arms",
     "obsoleteTech": "Lasers",
     "promotions": ["Drill I","Drill II"],
-    "uniques":["[+35]% Strength <vs [Melee] units>","[-15]% Strength <vs [Siege] units>"],
+    "uniques":["[+35]% Strength <vs [Gunpowder] units>","[-15]% Strength <vs [Siege] units>"],
     "upgradesTo":"Modern Armor",
     "attackSound": "shot"
 }

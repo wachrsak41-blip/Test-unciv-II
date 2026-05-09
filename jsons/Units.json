@@ -597,4 +597,19 @@
   "upgradesTo": "T-80",
   "attackSound": "tankshot",
 	}
+	{
+		"name": "Panzer IV",
+		"unitType": "Armored",
+		"uniqueTo": "Germany",
+		"movement": 6,
+		"strength": 65,
+		"cost": 300,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Modern Armor",
+		"uniques": [
+		  "Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs [Gunpowder] units>"
+		  ],
+		"attackSound": "tankshot"
+		//German unique unit, stronger than Tank
+	}
 ]

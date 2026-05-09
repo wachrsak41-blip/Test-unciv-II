@@ -69,6 +69,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
+		"uniqueName": "Great Mounted",
 		"unique": "[+100]% [Horses] resource production",
 		
   "cities": [

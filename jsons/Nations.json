@@ -69,7 +69,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
-		"unique": "",
+		"unique": "[+100]% [Horses] resource production",
 		
   "cities": [
     "Warsaw",

@@ -592,7 +592,8 @@
   "requiredResource": "Oil",
   "obsoleteTech": "Lasers",
   "uniques": [
-    "[+15]% Strength <when fighting in [Open terrain] tiles>",			"Must set up to ranged attack","[-1] Sight","[+50]% Strength <when fighting in [cities] tiles]>"
+    "[+15]% Strength <when fighting in [Open terrain] tiles>",
+	  "Must set up to ranged attack","[-1] Sight","[+50]% Strength <when fighting in [cities] tiles>"
     ],
   "upgradesTo": "T-80",
   "attackSound": "tankshot",

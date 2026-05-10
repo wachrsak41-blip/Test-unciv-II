@@ -6,224 +6,231 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 1810, 182
+  xy: 1725, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 1882, 182
+  xy: 1725, 84
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 1954, 182
+  xy: 1797, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bangrajan
   rotate: false
-  xy: 628, 157
+  xy: 628, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Flamethrower
   rotate: false
-  xy: 628, 68
+  xy: 628, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Holy knight
   rotate: false
-  xy: 731, 157
+  xy: 731, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/IJA army
   rotate: false
-  xy: 1452, 70
+  xy: 1555, 125
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Kv-1
   rotate: false
-  xy: 1555, 173
+  xy: 1555, 52
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Kv-2
   rotate: false
-  xy: 731, 68
+  xy: 731, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lunge Mine
   rotate: false
-  xy: 834, 157
+  xy: 834, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/M4 sherman
   rotate: false
-  xy: 1640, 173
+  xy: 1640, 139
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/M7 Priest
   rotate: false
-  xy: 628, 4
+  xy: 1797, 84
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/MG42 man
   rotate: false
-  xy: 834, 68
+  xy: 834, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Maus
   rotate: false
-  xy: 700, 4
+  xy: 1869, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Panzer IV
+  rotate: false
+  xy: 937, 123
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Panzerfaust Anti-tankman
   rotate: false
-  xy: 937, 157
+  xy: 937, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Phasang puenton
   rotate: false
-  xy: 937, 68
+  xy: 1040, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ronin
   rotate: false
-  xy: 1040, 157
+  xy: 1040, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sand Soldier
   rotate: false
-  xy: 1040, 68
+  xy: 1143, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper rifle man
   rotate: false
-  xy: 1143, 157
+  xy: 1143, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper rifle man-1
   rotate: false
-  xy: 1143, 68
+  xy: 1246, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper rifle man-2
   rotate: false
-  xy: 1246, 157
+  xy: 1246, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/T-80
   rotate: false
-  xy: 1246, 68
+  xy: 1349, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 772, 4
+  xy: 1869, 84
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
-  xy: 1725, 159
+  xy: 1640, 52
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wehrmacht
   rotate: false
-  xy: 1349, 157
+  xy: 1349, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 844, 4
+  xy: 1941, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/charb1
   rotate: false
-  xy: 916, 4
+  xy: 1941, 84
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/fire lance
   rotate: false
-  xy: 1349, 68
+  xy: 1452, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/stingray
   rotate: false
-  xy: 1452, 157
+  xy: 1452, 34
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 UnitIcons/Flamethrower
   rotate: false
-  xy: 4, 38
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Phasang puenton
   rotate: false
-  xy: 212, 38
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wehrmacht
   rotate: false
-  xy: 420, 38
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

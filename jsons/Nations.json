@@ -70,7 +70,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "Great Mounted",
-		"unique": [
+		"uniques": [
     "[+100]% Yield from [Horses] tiles <in all cities>",
     "[+10]% Culture <in all cities>"
 		]

@@ -70,7 +70,10 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "Great Mounted",
-		"unique": "[+100]% [Horses] resource production",
+		"unique": [
+    "[+100]% Yield from [Horses] tiles <in all cities>",
+    "[+10]% Culture <in all cities>"
+		]
 		
   "cities": [
     "Warsaw",

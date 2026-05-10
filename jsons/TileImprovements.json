@@ -2,7 +2,7 @@
   	{
 		"name": "Army Horse Breeding Farm",
 		"uniqueTo": "Poland",
-		"terrainsCanBeBuiltOn": ["Plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
 	  "production": 1,
 		"turnsToBuild": 4,
 		"uniques": ["Costs [2] [Food] per turn","Provides [1] [Horses]"]

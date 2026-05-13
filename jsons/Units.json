@@ -625,5 +625,21 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "cavalry"
-	},
+	}
+	{
+		"name": "Zeppilin",
+		"uniqueTo": "Germany",
+		"unitType": "Air Ship",
+		"movement": 4,
+		"strength": 55,
+		"cost": 375,
+		"requiredTech": "Flight",
+		"obsoleteTech": "Radar",
+		"uniques": [
+		     "No defensive terrain bonus","[+50]% Strength <vs cities>",
+			"[+15%] Strength <vs [Gunpowder] units>",
+			"[-25]% Strength <when fighting in [Rough  terrain] tiles>"
+		],
+		"attackSound": "bombing"
+}
 ]

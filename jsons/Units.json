@@ -636,10 +636,10 @@
 		"requiredTech": "Flight",
 		"obsoleteTech": "Radar",
 		"uniques": [
-		     "No defensive terrain bonus","[+50]% Strength <vs cities>",
-			"[+15%] Strength <vs [Gunpowder] units>",
-			"[-25]% Strength <when fighting in [Rough  terrain] tiles>"
-		],
+			"No defensive terrain bonus",
+			"[+50]% Strength <vs cities>",
+			"[+15]% Strength <vs [Gunpowder] units>",
+			"[-25]% Strength <when fighting in [Rough  terrain] tiles>"],
 		"attackSound": "bombing"
-}
+	}
 ]

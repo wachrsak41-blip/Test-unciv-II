@@ -613,4 +613,17 @@
 		"attackSound": "tankshot"
 		//German unique unit, stronger than Tank
 	}
+	{
+		"name": "Polish Cavalry",
+		"uniqueTo": "Poland",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 65,
+		"cost": 220,
+		"requiredTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics ",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "cavalry"
+	},
 ]

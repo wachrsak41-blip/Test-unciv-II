@@ -200,9 +200,16 @@ TileSets/AbsoluteUnits/Units/Yamato
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/charb1
+TileSets/AbsoluteUnits/Units/Zeppilin
   rotate: false
   xy: 916, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/charb1
+  rotate: false
+  xy: 988, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

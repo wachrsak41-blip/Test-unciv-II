@@ -641,7 +641,7 @@
 		"attackSound": "bombing"
 	}
   {
-    "name": "Nebelwerfer",
+    "name": "Panzerwerfer 42",
 		"uniqueTo": "Germany",
 		"unitType": "Siege",
 		"movement": 4,

@@ -6,21 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 1810, 182
+  xy: 1895, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 1882, 182
+  xy: 1967, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-2
   rotate: false
-  xy: 1954, 182
+  xy: 628, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -83,7 +83,7 @@ TileSets/AbsoluteUnits/Units/M4 sherman
   index: -1
 TileSets/AbsoluteUnits/Units/M7 Priest
   rotate: false
-  xy: 628, 4
+  xy: 700, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -97,7 +97,7 @@ TileSets/AbsoluteUnits/Units/MG42 man
   index: -1
 TileSets/AbsoluteUnits/Units/Maus
   rotate: false
-  xy: 700, 4
+  xy: 772, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -116,6 +116,13 @@ TileSets/AbsoluteUnits/Units/Panzerfaust Anti-tankman
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Panzerwerfer 42
+  rotate: false
+  xy: 1640, 100
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Phasang puenton
   rotate: false
   xy: 1040, 157
@@ -125,7 +132,7 @@ TileSets/AbsoluteUnits/Units/Phasang puenton
   index: -1
 TileSets/AbsoluteUnits/Units/Polish Cavalry
   rotate: false
-  xy: 1640, 86
+  xy: 1725, 159
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
@@ -174,14 +181,14 @@ TileSets/AbsoluteUnits/Units/T-80
   index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 772, 4
+  xy: 844, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
-  xy: 1725, 159
+  xy: 1810, 159
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
@@ -195,21 +202,21 @@ TileSets/AbsoluteUnits/Units/Wehrmacht
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 844, 4
+  xy: 916, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zeppilin
   rotate: false
-  xy: 916, 4
+  xy: 988, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/charb1
   rotate: false
-  xy: 988, 4
+  xy: 1060, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

@@ -40,8 +40,7 @@
     "promotions": ["Blitz"],
     "uniques": [
   "[+20]% Strength <when attacking>",
-  "[+12]% Strength <vs [Melee] units>",
-  "[+12]% Strength <vs [Gun] units>"
+  "[+25]% Strength <vs [Gunpowder] units>"
     ]
   }
    {
@@ -58,7 +57,7 @@
      "uniques": [
     "[+20]% Strength <when attacking>",
     "[+50]% Strength <vs [Melee] units>",
-    "[+50]% Strength <vs [Gun] units>"
+    "[+50]% Strength <vs [Gunpowder] units>"
   ]
    }
 {
@@ -74,7 +73,7 @@
   "uniques": [
     "[+15]% Strength <when attacking>",
     "[+15]% Strength <vs [Melee] units>",
-    "[+20]% Strength <vs [Gun] units>"
+    "[+20]% Strength <vs [Gunpowder] units>"
   ]
 }
 {
@@ -448,8 +447,7 @@
    "obsoleteTech": "Gunpowder",
    "promotions": ["Shock I"]
    "uniques":   ["Can Spread Religion <for [2] movement> <[2] times>",
-        "Religious Unit",
-        "May enter foreign tiles without open borders"],
+        "Religious Unit"],
    "upgradesTo": "Musketman",
    "attackSound": "metalhit"
  }
@@ -642,4 +640,16 @@
 			"[-25]% Strength <when fighting in [Rough  terrain] tiles>"],
 		"attackSound": "bombing"
 	}
+  {
+    "name": "Nebelwerfer",
+		"uniqueTo": "Germany",
+		"unitType": "Siege",
+		"movement": 4,
+		"strength": 40,
+		"rangedStrength": 70,
+		"cost": 400,
+		"requiredTech": "Rocketry",
+		"uniques": ["No defensive terrain bonus","[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
+		"attackSound": "artillery"
+  }
 ]

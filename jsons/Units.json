@@ -661,7 +661,7 @@
 		"cost": 355,
 		"requiredTech": "Combustion",
 		"obsoleteTech": "Combined Arms",
-		"uniques": ["No defensive terrain bonus","[-25]% Strength <vs cities>","[+25%] Strength <vs [Gunpowder] units>","[-5]% Strength <when fighting in [Rough terrain] tiles>"],
+		"uniques": ["No defensive terrain bonus","[-25]% Strength <vs cities>","[+25]% Strength <vs [Gunpowder] units>","[-5]% Strength <when fighting in [Rough terrain] tiles>"],
 		"attackSound": "tankshot"
 	}
 ]

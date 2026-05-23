@@ -652,4 +652,16 @@
 		"uniques": ["No defensive terrain bonus","[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
   }
+	{
+		"name": "Saint-Chamond",
+		"uniqueTo": "France",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 65,
+		"cost": 355,
+		"requiredTech": "Combustion",
+		"obsoleteTech": "Combined Arms",
+		"uniques": ["No defensive terrain bonus","[-25]% Strength <vs cities>","[+25%] Strength <vs [Gunpowder] units>","[-5]% Strength <when fighting in [Rough terrain] tiles>"],
+		"attackSound": "tankshot"
+	}
 ]

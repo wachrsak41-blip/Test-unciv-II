@@ -6,14 +6,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/88 flanks
   rotate: false
-  xy: 1895, 182
+  xy: 1980, 182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/88 flanks-1
   rotate: false
-  xy: 1967, 182
+  xy: 1980, 118
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -144,6 +144,13 @@ TileSets/AbsoluteUnits/Units/Ronin
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Saint-Chamond
+  rotate: false
+  xy: 1810, 173
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Sand Soldier
   rotate: false
   xy: 1143, 157
@@ -188,7 +195,7 @@ TileSets/AbsoluteUnits/Units/Troop Carrier
   index: -1
 TileSets/AbsoluteUnits/Units/Type 96
   rotate: false
-  xy: 1810, 159
+  xy: 1895, 159
   size: 77, 79
   orig: 77, 79
   offset: 0, 0

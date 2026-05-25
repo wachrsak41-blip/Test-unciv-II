@@ -664,4 +664,14 @@
 		"uniques": ["No defensive terrain bonus","[-25]% Strength <vs cities>","[+25]% Strength <vs [Gunpowder] units>","[-5]% Strength <when fighting in [Rough terrain] tiles>"],
 		"attackSound": "tankshot"
 	}
+{
+    	"name": "SF",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 90,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>","[+15]% Strength <vs cities>"],
+		"attackSound": "shot"
+	}
 ]

@@ -52,9 +52,11 @@
   "strength": 60,
   "cost": 100,
   "requiredTech": "Combined Arms",
+  "obsoleteTech": "Lasers",
   "promotions": ["Shock II"],
-   "attackSound": "shot"
-     "uniques": [
+  "attackSound": "shot"
+  "upgradesTo": "Modern Armor",
+  "uniques": [
     "[+20]% Strength <when attacking>",
     "[+50]% Strength <vs [Melee] units>",
     "[+50]% Strength <vs [Gunpowder] units>"
@@ -69,7 +71,9 @@
   "strength": 72,
   "cost": 395,
   "requiredTech": "Combined Arms",
-  "promotions": ["Drill II"],
+  "obsoleteTech": "Lasers",
+  "promotions": ["Drill II"]
+  "upgradesTo": "Modern Armor",
   "uniques": [
     "[+15]% Strength <when attacking>",
     "[+15]% Strength <vs [Melee] units>",
@@ -393,6 +397,7 @@
   "rangedStrength": 40,
   "range": 2,
   "cost": 350,
+  "obsoleteTech": "Lasers",
   "requiredTech": "Combined Arms",
   "promotions": ["Accuracy I"],
   "uniques": ["[+100]% Strength <vs cities>","Can move after attacking"],

@@ -679,4 +679,18 @@
 		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>","[+15]% Strength <vs cities>"],
 		"attackSound": "shot"
 	}
+{
+		"name": "HMS warspite",
+		"unitType": "Ranged Water",
+	    "uniqueTo": "England",
+		"movement": 5,
+		"strength": 48,
+		"rangedStrength": 62,
+		"range": 3,
+		"cost": 390,
+		"requiredTech": "Electronics",
+		"uniques": ["Never appears as a Barrbarian unit"],
+	    "promotion": ["Indirect Fire"],
+	    "attackSound": "shipguns",
+	}
 ]

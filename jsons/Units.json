@@ -54,7 +54,7 @@
   "requiredTech": "Combined Arms",
   "obsoleteTech": "Lasers",
   "promotions": ["Shock II"],
-  "attackSound": "shot"
+  "attackSound": "shot",
   "upgradesTo": "Modern Armor",
   "uniques": [
     "[+20]% Strength <when attacking>",

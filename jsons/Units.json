@@ -693,4 +693,17 @@
 	    "promotion": ["Indirect Fire"],
 	    "attackSound": "shipguns",
 	}
+	{
+		"name": "Seaman",
+		"unitType": "Gunpowder",
+		"uniqueTo": "England",
+		"movement": 2,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Rifleman",
+		"uniques": "[-1] Sight,[+20]% Strength <when fighting in [Water] tiles>",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
 ]

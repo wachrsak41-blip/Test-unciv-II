@@ -702,14 +702,15 @@
 		"cost": 120,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[-1] Sight,[+20]% Strength <when fighting in [Water] tiles>"],
+		"uniques": ["[-1] Sight", "[+20]% Strength <when fighting in [Water] tiles>"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot",
 	}
 {
 		"name": "Ottoman Cannon",
 		"unitType": "Siege",
-		"movement": 2,
+		"uniqueTo" "Ottoman",
+	    "movement": 2,
 		"strength": 17,
 		"rangedStrength": 27,
 		"cost": 250,

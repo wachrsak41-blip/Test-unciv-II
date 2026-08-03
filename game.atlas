@@ -102,6 +102,13 @@ TileSets/AbsoluteUnits/Units/Maus
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Ottoman Cannon
+  rotate: false
+  xy: 916, 9
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Panzer IV
   rotate: false
   xy: 937, 162
@@ -202,7 +209,7 @@ TileSets/AbsoluteUnits/Units/T-80
   index: -1
 TileSets/AbsoluteUnits/Units/Troop Carrier
   rotate: false
-  xy: 916, 9
+  xy: 988, 9
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -223,21 +230,21 @@ TileSets/AbsoluteUnits/Units/Wehrmacht
   index: -1
 TileSets/AbsoluteUnits/Units/Yamato
   rotate: false
-  xy: 988, 9
+  xy: 1060, 9
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zeppilin
   rotate: false
-  xy: 1060, 9
+  xy: 1132, 9
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/charb1
   rotate: false
-  xy: 1132, 9
+  xy: 1204, 9
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

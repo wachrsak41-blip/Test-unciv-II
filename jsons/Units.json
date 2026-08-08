@@ -709,7 +709,7 @@
 {
 		"name": "Ottoman Cannon",
 		"unitType": "Siege",
-		"uniqueTo" "Ottoman",
+		"uniqueTo": "Ottoman",
 	    "movement": 2,
 		"strength": 17,
 		"rangedStrength": 27,
